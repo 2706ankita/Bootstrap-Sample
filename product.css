@@ -1,0 +1,31 @@
+.navbar {
+    background-color: beige !important;
+}
+
+.nav-item {
+    padding-right: 10px;
+    padding-left: 10px;
+    border-right: brown solid 1px;
+}
+
+.card-body {
+    background-color: yellow;
+}
+
+.page-footer {
+    background-color: beige;
+}
+
+.jumbotron {
+    background-image: url(images/coffee\ pic.jpg);
+    background-size: auto 100%;
+}
+
+.images {
+    margin: 0px;
+    width: 240px;
+    height: 200px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
